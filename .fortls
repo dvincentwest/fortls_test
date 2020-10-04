@@ -1,0 +1,5 @@
+{
+  "source_dirs": ["src", "src/submodule"],
+  "include_dirs": ["src", "src/submodule"],
+  "ext_source_dirs": ["src", "src/submodule"]
+}
